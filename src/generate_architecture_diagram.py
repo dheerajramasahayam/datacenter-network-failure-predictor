@@ -3,13 +3,13 @@ import matplotlib.patches as patches
 import os
 
 def draw_architecture():
-    fig, ax = plt.subplots(figsize=(8, 6))
+    fig, ax = plt.subplots(figsize=(10, 6))
     
     # Define boxes [x, y, width, height] in a grid layout to maximize space
     # Two rows of three boxes
-    w, h = 3.0, 1.0 # Width and height of boxes
-    spacing_x = 1.0
-    spacing_y = 1.5
+    w, h = 3.2, 1.2 # Width and height of boxes
+    spacing_x = 1.2
+    spacing_y = 1.8
     
     # Top row
     x1 = 0

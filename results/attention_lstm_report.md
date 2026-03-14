@@ -1,0 +1,1 @@
+# Research Output: Attention-LSTM with Windowed Evaluation\n\nValidation Performed on: Network-And-Services/optical-failure-dataset\n\n## 1. Classical Static Evaluation (Exact Predict Match)\n- Precision: 0.1341\n- Recall: 0.9501\n- F1-Score: 0.2351\n\n## 2. Realistic 60-Second Window Evaluation\n- Precision: 0.2298\n- Recall: 0.9995\n- F1-Score: 0.3737\n\n
